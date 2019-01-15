@@ -13,7 +13,7 @@ def first_challenge
     }
   }
 
-  contatcs["Jon Snow"][:favorite_icecream_flavors] << "mintchip"
+  contatcs["Jon Snow"][:favorite_icecream_flavors] << "mint chip"
 
 
   #remember to return your newly altered contacts hash!
