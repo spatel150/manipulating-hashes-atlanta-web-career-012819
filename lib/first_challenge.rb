@@ -19,5 +19,6 @@ def first_challenge
         flavors.delete_if[0]
   #remember to return your newly altered contacts hash!
   return contacts
+  end
 end
 
